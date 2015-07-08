@@ -5,7 +5,7 @@
 
 #SETUP
 rm(list = ls()) #clear workspace
-setwd("C://Users//mammykins//Google Drive//R///coursera//eda") #name of current wd
+#setwd() #name of current wd
 
 #LIBRARY - check if packages are installed and load them
 if(!require("dplyr")) {
